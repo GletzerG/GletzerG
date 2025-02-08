@@ -1,3 +1,5 @@
+![](kaguya-sama-kaguya.gif)
+
 <h1 align="center">Hi 👋, I'm Gletzer Julio Ivanees</h1>
 <h3 align="center">Programmer pemula banget aseli</h3>
 
