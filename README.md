@@ -1,3 +1,5 @@
+<div class="tenor-gif-embed" data-postid="25498164" data-share-method="host" data-aspect-ratio="1.65803" data-width="100%"><a href="https://tenor.com/view/kaguya-sama-kaguya-kaguya-shinomiya-love-is-war-kaguya-sama-love-is-war-gif-25498164">Kaguya Sama Kaguya Shinomiya GIF</a>from <a href="https://tenor.com/search/kaguya+sama-gifs">Kaguya Sama GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h1 align="center">Hi 👋, I'm Gletzer Julio Ivanees</h1>
 <h3 align="center">Programmer pemula banget aseli</h3>
 
