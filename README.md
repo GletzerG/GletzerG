@@ -1,4 +1,7 @@
-![Shinomiya Kaguya](kaguya-sama-kaguya.gif)
+<p align="center">
+  <img src="kaguya-sama-kaguya.gif" alt="Shinomiya Kaguya" width="300"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Gletzer Julio Ivanees</h1>
 <h3 align="center">Programmer pemula banget aseli</h3>
