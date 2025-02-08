@@ -1,8 +1,8 @@
 <div class="gif">
   ![](kaguya-sama-kaguya.gif)
+  display: block
+  margin: 0 auto
 </div>
-
-![](kaguya-sama-kaguya.gif)
 
 <h1 align="center">Hi 👋, I'm Gletzer Julio Ivanees</h1>
 <h3 align="center">Programmer pemula banget aseli</h3>
