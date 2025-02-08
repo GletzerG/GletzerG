@@ -1,7 +1,5 @@
 <div class="gif">
   ![](kaguya-sama-kaguya.gif)
-  display: block
-  margin: 0 auto
 </div>
 
 ![](kaguya-sama-kaguya.gif)
